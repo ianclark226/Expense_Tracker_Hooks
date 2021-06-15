@@ -1,6 +1,7 @@
-import React from 'react'
+import React, { useContext } from 'react';
 
-const Incomeexpenses = () => {
+
+export const IncomeExpenses = () => {
     return (
         <div class="inc-exp-container">
             <div>
@@ -15,6 +16,6 @@ const Incomeexpenses = () => {
     )
 }
 
-export default Incomeexpenses;
+
 
 
