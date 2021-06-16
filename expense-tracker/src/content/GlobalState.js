@@ -39,7 +39,3 @@ export const GlobalProvider= ({ children }) => {
         </GlobalContext.Provider>
     )
 }
-
-
-
-

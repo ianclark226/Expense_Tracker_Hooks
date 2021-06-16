@@ -1,4 +1,3 @@
-
 import React, {useContext} from 'react';
 import { GlobalContext } from '../content/GlobalState';
 
@@ -19,5 +18,3 @@ import { GlobalContext } from '../content/GlobalState';
 }
 
 export default Transaction;
-
- 

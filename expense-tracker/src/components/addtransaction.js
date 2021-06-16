@@ -1,3 +1,4 @@
+
 import React, {useState, useContext} from 'react';
 import { GlobalContext } from '../content/GlobalState'; 
 
@@ -40,5 +41,3 @@ export const AddTransaction = () => {
         </>
     )
 }
-
-
